@@ -41,7 +41,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/priyanka-patel-aa452b239/" target="_blank">
-<img src=https://github.com/Priyankapatel011/Priyankapatel011/assets/128116001/1cf33977-abb7-475a-9b92-49106cc718d6=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />

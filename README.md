@@ -45,8 +45,7 @@
 <!--   </p> -->
 
 <p>LinkedIn</p>
-<a href="priyanka-patel-aa452b239
-"><img src="https://www.linkedin.com/in/priyanka-patel-aa452b239" alt="linkedin" style="width:42px;height:42px;"></a>
+<a href="www.linkedin.com/in/priyanka-patel-aa452b239"> <img src="https://www.linkedin.com/in/priyanka-patel-aa452b239" alt="linkedin" style="width:42px;height:42px;"></a>
    
  <a href="https://www.linkedin.com/in/priyanka-patel-aa452b239">
 <img src="https://github.com/Priyankapatel011/Priyankapatel011/assets/128116001/d7d1c8eb-be8d-410e-8a0b-605097d21027" alt="LinkedIn" style="width:52px;height:40px;">

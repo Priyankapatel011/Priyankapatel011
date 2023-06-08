@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<p align="left">⚡ Languages and Frameworks:</p>
 
+<h3 align="left">⚡ Languages and Frameworks:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-<p align="left">🛠 Software and tools:</p>
+<h3 align="left">🛠 Software and tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />

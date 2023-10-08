@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 👀 I’m interested in **C++, Python, HTML, CSS, SQL, Bootstrap.**
+- 👀 I’m interested in **C++, Python, Web Development, MySQL, Bootstrap.**
   
 
 

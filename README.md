@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyanka Patel, Currently pursuing final year of BTech.</h1>
-<h3 align="center">A passionate final year student from India</h3>
+<h1 align="center">Hi 👋, I'm Priyanka Patel, completed my B.Tech in 2024</h1>
+<h3 align="center">A passionate student having passion for Coding and Web Development.</h3>
 
 - 🌱 I’m currently learning **DSA**
 
